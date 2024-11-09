@@ -50,7 +50,8 @@ We are a team of aviation enthusiasts, developers, and SaaS experts passionate a
 
 For questions, support, or just to connect:
 
-    Website: flight-academy@outlook.com
-    Community Discord: [Discord Invite](https://discord.gg/7DybGprWja)
+Website: flight-academy@outlook.com
+
+Community Discord: [Discord Invite](https://discord.gg/7DybGprWja)
 
 Welcome!
